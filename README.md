@@ -127,7 +127,6 @@ Place the 8 source CSV files in the project root before running (see table above
 ## 👤 Author
 
 **Vydhyam Vishnusai**
-Final-year B.Tech CSE (AI & ML), Mohan Babu University
 
 [![GitHub](https://img.shields.io/badge/GitHub-vishnusai2005-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishnusai2005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vishnusai--vydhyam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnusai-vydhyam)
