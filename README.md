@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Detection of Child Predators & Cyber Harassers on Social Media
+#  Detection of Child Predators & Cyber Harassers on Social Media
 
 ### An NLP-powered system for flagging toxic, aggressive & predatory language patterns on social platforms
 
